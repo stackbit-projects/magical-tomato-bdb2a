@@ -65,7 +65,7 @@ sections:
     background: white
     title: What our Clients Say About Us
     reviews:
-      - author: 'Dr Tracy K. DVM - '
+      - author: Dr Tracy K. DVM - Practice owner / Veterinarian
         avatar_alt: Eric Widget's photo
       - author: Parsley Montana
         avatar: images/review2.jpg
