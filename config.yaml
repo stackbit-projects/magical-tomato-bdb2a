@@ -2,7 +2,7 @@ title: VetBadger
 baseURL: /
 params:
   base_font: nunito-sans
-  palette: blue
+  palette: green
   header:
     logo_img: images/optimized_logo_420x99.png
     logo_img_alt: Logo
