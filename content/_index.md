@@ -113,6 +113,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
+        price: '99'
     type: section_pricing
 seo:
   title: Stackbit Azimuth Theme
