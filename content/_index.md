@@ -1,6 +1,23 @@
 ---
 title: Home
 sections:
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    background: gray
+    actions: []
+    type: section_content
   - section_id: hero
     type: section_hero
     image: images/photodune-10028213-veterinary-care-l-1-e1540271838262.jpg
@@ -99,23 +116,6 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
