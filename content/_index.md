@@ -146,7 +146,7 @@ sections:
         actions: []
         type: pricing_plan
         price: $449
-      - price: '599'
+      - price: $599
         details: >-
           ## Lorem ipsum
 
