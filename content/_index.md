@@ -137,7 +137,7 @@ sections:
         actions: []
         type: pricing_plan
         price: $249
-      - title: lorem-ipsum
+      - title: 11 - 20 Users
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
