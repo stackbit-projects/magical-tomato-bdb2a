@@ -104,7 +104,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-      - title: lorem-ipsum
+      - title: 1 - 2 Users
         subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
