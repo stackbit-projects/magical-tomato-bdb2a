@@ -105,7 +105,6 @@ sections:
     background: gray
     pricing_plans:
       - title: 1 - 2 Users
-        subtitle: lorem-ipsum
         price: lorem-ipsum
         details: >-
           ## Lorem ipsum
