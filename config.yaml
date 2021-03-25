@@ -6,7 +6,7 @@ params:
   header:
     logo_img: images/optimized_logo_420x99.png
     logo_img_alt: Logo
-    has_nav: true
+    has_nav: false
     nav_links:
       - label: Home
         url: /
