@@ -151,7 +151,7 @@ sections:
           Complete Feature Set
 
           Unlimited: $949
-        highlight: true
+        highlight: false
         actions: []
         type: pricing_plan
         title: 21 - 40 Users
