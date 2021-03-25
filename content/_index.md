@@ -63,7 +63,7 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    title: What our Clients Say
+    title: What our Clients Say About Us
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
       semper libero id sodales.
