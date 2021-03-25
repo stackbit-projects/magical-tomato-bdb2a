@@ -94,8 +94,12 @@ sections:
           excellent.
       - avatar_alt: Jonquil Von Haggerston's photo
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Love it! 
+
+          Working with VetBadger has been amazing. The customer service team is
+          exceptional and willing to work with you to find solutions that work
+          with your business. Our team enjoys the increased communication with
+          our clients and the ability to have everything they need in one spot.
         author: Amanda E. - Practice Manager
   - section_id: call-to-action
     type: section_cta
