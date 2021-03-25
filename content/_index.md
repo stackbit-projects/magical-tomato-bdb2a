@@ -3,6 +3,7 @@ title: Home
 sections:
   - section_id: main
     type: section_hero
+    background: white
     image: images/photodune-10028213-veterinary-care-l-1-e1540271838262.jpg
     image_alt: App preview
     title: Beyond Practice Management
