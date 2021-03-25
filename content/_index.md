@@ -115,7 +115,6 @@ sections:
         type: pricing_plan
         price: $99
       - title: 3 - 10 Users
-        price: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
