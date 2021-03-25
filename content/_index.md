@@ -78,6 +78,20 @@ sections:
           vital for client satisfaction!
       - author: Dr. Jennifer K. DVM - Veterinarian/Practice owner
         avatar_alt: Parsley Montana's photo
+        content: >-
+          VetBadger–Keeps me
+
+          connected to my clients and
+
+          documents that connection.
+
+          As a “boutique” type small clinic owner with a recent start up–ongoing
+          communication via text/emails is extremely important to me to bond
+          with with, attract and retain clientele. The fact that I can
+          communicate with new clients this way and NOT have to take the
+          additional time to document all that extra communication in the
+          medical record was the selling point for me. Support has been
+          excellent.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
