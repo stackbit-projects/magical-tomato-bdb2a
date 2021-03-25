@@ -138,7 +138,6 @@ sections:
         type: pricing_plan
         price: $249
       - title: 11 - 20 Users
-        price: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
