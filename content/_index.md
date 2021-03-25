@@ -156,7 +156,7 @@ sections:
         type: pricing_plan
         title: 21 - 40 Users
     type: section_pricing
-  - title: lorem-ipsum
+  - title: Demo & Free Trial
     content: >-
       ## Lorem ipsum
 
