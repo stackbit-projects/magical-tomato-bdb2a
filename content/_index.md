@@ -65,7 +65,7 @@ sections:
     background: white
     title: What our Clients Say About Us
     reviews:
-      - author: Eric Widget
+      - author: Dr Tracy K. DVM
         avatar_alt: Eric Widget's photo
       - author: Parsley Montana
         avatar: images/review2.jpg
