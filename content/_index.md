@@ -146,7 +146,7 @@ sections:
         actions: []
         type: pricing_plan
         price: $449
-      - price: lorem-ipsum
+      - price: '599'
         details: >-
           ## Lorem ipsum
 
