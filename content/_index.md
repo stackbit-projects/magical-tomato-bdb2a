@@ -93,7 +93,6 @@ sections:
           medical record was the selling point for me. Support has been
           excellent.
       - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
