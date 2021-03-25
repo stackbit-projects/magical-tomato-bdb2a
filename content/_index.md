@@ -92,8 +92,7 @@ sections:
           additional time to document all that extra communication in the
           medical record was the selling point for me. Support has been
           excellent.
-      - author: Jonquil Von Haggerston
-        avatar_alt: Jonquil Von Haggerston's photo
+      - avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
