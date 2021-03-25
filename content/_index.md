@@ -9,6 +9,7 @@ sections:
     actions:
       - label: Learn More
         style: primary
+        url: '#pricing'
   - section_id: features
     type: section_features
     background: gray
