@@ -77,7 +77,6 @@ sections:
           So glad I chose this veterinary software for my new clinic. Has been
           vital for client satisfaction!
       - author: Parsley Montana
-        avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
