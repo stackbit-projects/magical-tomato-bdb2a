@@ -114,6 +114,23 @@ sections:
         actions: []
         type: pricing_plan
         price: $99
+      - title: lorem-ipsum
+        subtitle: lorem-ipsum
+        price: lorem-ipsum
+        details: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        highlight: false
+        actions: []
+        type: pricing_plan
     type: section_pricing
 seo:
   title: Stackbit Azimuth Theme
