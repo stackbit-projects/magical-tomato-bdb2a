@@ -10,8 +10,6 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-    content: |
-      florp
   - section_id: features
     type: section_features
     background: gray
