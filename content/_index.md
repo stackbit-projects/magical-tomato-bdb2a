@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: Beyond Practice Management
     actions:
-      - label: 'Get a '
+      - label: Get a Demo
         style: primary
         url: '#pricing'
   - section_id: features
