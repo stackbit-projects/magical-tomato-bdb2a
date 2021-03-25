@@ -157,17 +157,9 @@ sections:
         title: 21 - 40 Users
     type: section_pricing
   - title: Demo & Free Trial
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Let us show you what VetBadger is all about. Then try it risk-free for 30
+      days.
     image_alt: lorem-ipsum
     background: gray
     actions: []
