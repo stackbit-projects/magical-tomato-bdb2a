@@ -152,6 +152,7 @@ sections:
         highlight: false
         actions: []
         type: pricing_plan
+        price: $449
     type: section_pricing
 seo:
   title: Stackbit Azimuth Theme
