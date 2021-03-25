@@ -67,6 +67,15 @@ sections:
     reviews:
       - author: Dr Tracy K. DVM - Practice owner / Veterinarian
         avatar_alt: Eric Widget's photo
+        content: >-
+          Unique features including texting
+
+          which make the most of
+
+          communicating with your clients.
+
+          So glad I chose this veterinary software for my new clinic. Has been
+          vital for client satisfaction!
       - author: Parsley Montana
         avatar: images/review2.jpg
         avatar_alt: Parsley Montana's photo
