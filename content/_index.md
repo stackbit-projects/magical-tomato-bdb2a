@@ -101,7 +101,6 @@ sections:
     title: Latest Posts
   - section_id: lorem-ipsum
     title: Service Plans
-    subtitle: lorem-ipsum
     background: gray
     pricing_plans:
       - title: 1 - 2 Users
