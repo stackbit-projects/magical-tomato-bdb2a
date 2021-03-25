@@ -6,9 +6,6 @@ sections:
     image: images/photodune-10028213-veterinary-care-l-1-e1540271838262.jpg
     image_alt: App preview
     title: Beyond Practice Management
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
     actions:
       - label: Learn More
         url: /features
