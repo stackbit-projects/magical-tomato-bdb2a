@@ -156,8 +156,7 @@ sections:
         type: pricing_plan
         title: 21 - 40 Users
     type: section_pricing
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
+  - title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
