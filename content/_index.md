@@ -115,17 +115,10 @@ sections:
         type: pricing_plan
         price: $99
       - title: 3 - 10 Users
-        details: >-
-          ## Lorem ipsum
+        details: |
+          Complete Feature Set
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Unlimited: $399
         highlight: false
         actions: []
         type: pricing_plan
