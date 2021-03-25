@@ -66,7 +66,6 @@ sections:
     title: What our Clients Say About Us
     reviews:
       - author: Eric Widget
-        avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
       - author: Parsley Montana
         avatar: images/review2.jpg
